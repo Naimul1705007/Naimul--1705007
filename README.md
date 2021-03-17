@@ -1,6 +1,6 @@
 this will work only on windows 
 
-go to terminal and type
+go to terminal and type        
 make
-then type
+then type        
 ./myapp.exe

@@ -1,7 +1,7 @@
-all = myapp
+all = naimul
 
-myapp: main.o getch.o getop.o stack.o
-	gcc -Wall -o myapp main.o getch.o getop.o stack.o
+naimul: main.o getch.o getop.o stack.o
+	gcc -Wall -o naimul main.o getch.o getop.o stack.o
 
 
 main.o: main.c
